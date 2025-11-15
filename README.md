@@ -1,1 +1,1 @@
-https://github.com/polina-grischenko-2412004/ono-tebe-nado
+https://github.com/yandex-praktikum/ono-tebe-nado-ad
